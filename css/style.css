@@ -798,6 +798,148 @@ html {
   .container {
     width: 720px;
   }
+  .main-section {
+    min-height: 530px;
+  }
+  .main-section__first-elipse {
+    top: 70px;
+  }
+  .main-section__second-elipse {
+    top: 400px;
+  }
+  .left-wrapper img {
+    width: 550px;
+  }
+  .left-wrapper__rectangle-fuchsia {
+    width: 380px;
+    height: 130px;
+  }
+  .left-wrapper__rectangle-green {
+    width: 410px;
+    height: 130px;
+  }
+  .left-wrapper__rectangle-grey {
+    width: 380px;
+    height: 130px;
+  }
+  .title {
+    font-size: 60px;
+  }
+  .right-wrapper {
+    top: 75px;
+    width: 300px;
+    right: 43px;
+  }
+  .right-wrapper__text {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  .right-wrapper__icons-box {
+    padding-left: 26px;
+  }
+  .buttons__main-btn {
+    font-size: 14px;
+    margin-right: 10px;
+    width: 160px;
+    height: 50px;
+  }
+  .buttons__icon-btn {
+    font-size: 14px;
+  }
+  .second-section {
+    min-height: 450px;
+  }
+  .second-section__container {
+    padding-top: 20px;
+  }
+  .second-section__title {
+    margin-bottom: 25px;
+  }
+  .second-section__cards-box {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  .second-section__first-elipse {
+    right: -35px;
+  }
+  .second-section__second-elipse {
+    top: 252px;
+    left: -67px;
+  }
+  .cards-item {
+    width: 220px;
+    height: 220px;
+    margin-right: 20px;
+  }
+  .cards-item__img {
+    height: 200px;
+  }
+  .cards-item__text {
+    font-size: 22px;
+    top: 92px;
+    right: -75px;
+  }
+  .icons-item__img {
+    width: 50px;
+  }
+  .icons-item__text {
+    font-size: 14px;
+  }
+  .icons-item__text span {
+    font-size: 30px;
+  }
+  .thrid-section {
+    min-height: 510px;
+  }
+  .thrid-section__left-title {
+    display: none;
+  }
+  .thrid-section__right-wrapper {
+    max-width: 600px;
+  }
+  .thrid-section__container {
+    justify-content: flex-start;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  .thrid-section__right-title {
+    margin-bottom: 10px;
+  }
+  .title {
+    left: 20px;
+  }
+  .title__hr_top {
+    bottom: 60px;
+  }
+  .elipse {
+    width: 150px;
+    height: 150px;
+  }
+  .elipse__substract {
+    width: 110px;
+    height: 110px;
+  }
+  .elipse__substract_big {
+    width: 170px;
+    height: 170px;
+  }
+  .elipse_dig {
+    width: 250px;
+    height: 250px;
+  }
+  .footer__img {
+    width: 500px;
+  }
+  .footer__title {
+    margin-bottom: 10px;
+  }
+  .footer__container {
+    min-height: 210px;
+  }
+  .footer__icons-box {
+    padding-left: 20px;
+  }
 }
 @media (max-width: 767px) {
   .container {
